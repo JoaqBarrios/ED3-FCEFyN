@@ -1,0 +1,2 @@
+Tipo: 0, Contenido: Hola, sobreviviente dime de forma breve donde estas y que necesitas
+Tipo: 0, Contenido: Buenas noches estimados
