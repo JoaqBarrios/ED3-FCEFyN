@@ -65,7 +65,7 @@ int main() {
     Message msg;
 
     // Inicializo el mensaje con un texto
-    initMessage(&msg, MSG_TYPE_TEXT, "Hola, sobreviviente dime de forma breve donde estas y que necesitas");
+    initMessage(&msg, MSG_TYPE_TEXT, "Hola, sobreviviente dime de forma breve donde estas y que necesitas :)");
 
     // Envio el mensaje
     dispatchMessage(&msg);
